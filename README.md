@@ -21,4 +21,4 @@ _You can use it locally on your own machine if you have installed all the requir
 ## Data Sources:
 - [ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure](https://pubs.acs.org/doi/10.1021/ci034243x)
 - [Pat Walters Github](https://github.com/PatWalters/chem_tutorial)
-
+- [Deep Learning for the Life Sciences](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/)
