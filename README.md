@@ -5,7 +5,13 @@ This repository contains the jupyter notebook templates used in the DSW talk Oct
 
 
 The notebook and resources are intended to give a beginner's guide to Cheminformatics and small molecule ML to anyone who is interested. 
-The notebook is designed to be used within Google colab; _You can use it locally on your own machine if you have installed all the required dependencies_.
+The notebook is designed to be used within Google colab; 
+
+Download this repository, and upload the .ipynb into Google Colab, or open the link below in a Jupyter instance.
+
+_You can use it locally on your own machine if you have installed all the required dependencies_.
+
+
 
 ## Jupyter Notebook
 - [DSW-IntroCheminfoML](https://colab.research.google.com/drive/1UmmMgtWm9WkW01DBdvFCP3uE1kVw6NKC#scrollTo=E3ap1hQKVXxt)
