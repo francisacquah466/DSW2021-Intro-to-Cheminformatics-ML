@@ -14,7 +14,12 @@ _You can use it locally on your own machine if you have installed all the requir
 
 
 ## Jupyter Notebook
-- [DSW-IntroCheminfoML](https://colab.research.google.com/drive/1UmmMgtWm9WkW01DBdvFCP3uE1kVw6NKC#scrollTo=E3ap1hQKVXxt)
+- [DSW-IntroCheminfo&RDKit](https://colab.research.google.com/drive/1UmmMgtWm9WkW01DBdvFCP3uE1kVw6NKC#scrollTo=E3ap1hQKVXxt)
+- Go to the link above to open the Jupyter notebook in Google Colab.
+- When the notebook is opened in Google Colab:
+◙ File >> Save a copy in Drive >> Done
+- Start running the code cells. 
+
 
 ## Slides for workshop
 - 
