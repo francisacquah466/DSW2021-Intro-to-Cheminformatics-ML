@@ -22,7 +22,8 @@ _You can use it locally on your own machine if you have installed all the requir
 
 
 ## Slides for workshop
-- 
+- [Intro To Cheminformatics and RDKit in Python](https://docs.google.com/presentation/d/12OSftP37SbOaiaFijT4ZFM6-wB7rncpt/edit#slide=id.p9)
+
 ## Data Sources:
 - [ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure](https://pubs.acs.org/doi/10.1021/ci034243x)
 - [Pat Walters Github](https://github.com/PatWalters/chem_tutorial)
